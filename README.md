@@ -40,4 +40,5 @@ Windows:
 <b> Output </b>
 <pre><code>$ 20,593.90 </code></pre>
 <b> UML Sequence Diagram </b>
+
 ![pic](scraper.png)
